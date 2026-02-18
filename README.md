@@ -6,10 +6,8 @@ A complete deep learning curriculum built from first principles. Every notebook 
 
 ## Watch the Series
 
-| # | Video | Notebook |
-|---|-------|----------|
-Pytorch Zero to NN: [https://youtu.be/h__d70F8E7w
-](url)
+
+Pytorch Zero to NN: ([url](https://youtu.be/h__d70F8E7w))
 
 
 ---
