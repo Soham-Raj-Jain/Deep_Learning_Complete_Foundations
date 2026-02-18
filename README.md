@@ -7,7 +7,7 @@ A complete deep learning curriculum built from first principles. Every notebook 
 ## Watch the Series
 
 
-([Pytorch Zero to NN](https://youtu.be/h__d70F8E7w))
+[Pytorch Zero to NN](https://youtu.be/h__d70F8E7w)
 [Advance Tensorflow and Keras](https://youtu.be/uqYiYEIHNBM)
 [Calculus](https://youtu.be/00h4fPcry8w)
 [DL Geometry Matters](https://youtu.be/dsmIsxqFUCs)
