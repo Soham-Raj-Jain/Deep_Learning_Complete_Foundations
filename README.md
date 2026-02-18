@@ -7,7 +7,16 @@ A complete deep learning curriculum built from first principles. Every notebook 
 ## Watch the Series
 
 
-Pytorch Zero to NN: ([url](https://youtu.be/h__d70F8E7w))
+([Pytorch Zero to NN](https://youtu.be/h__d70F8E7w))
+[Advance Tensorflow and Keras](https://youtu.be/uqYiYEIHNBM)
+[Calculus](https://youtu.be/00h4fPcry8w)
+[DL Geometry Matters](https://youtu.be/dsmIsxqFUCs)
+[Jax Intro](https://youtu.be/-WrnHZKG1bE)
+[Jax Indepth](https://youtu.be/Nm40Lq-n8ao)
+[Neural Network](https://youtu.be/a9KUgYYCZLE)
+[Numpy and Linear Algebra](https://youtu.be/UYaawG_LNus)
+[Probability](https://youtu.be/HrkdiuSVWPc)
+[Pytorch Advance](https://youtu.be/MEvBVuIvSiw)
 
 
 ---
